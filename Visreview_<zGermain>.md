@@ -1,1 +1,8 @@
 The labels are not ambiguous, they are given units and descriptive enough to be clear as to what they mean. The label on the right for the colormap might be easier to read it was rotated 180 degrees. In order to emphasize the 45 degree mark as mentioned in the caption, it would be better to highlight that region of the plot by adding a horizontal line. The line for the zero degree point is distracting in the figure. The color choice for the colormap is good, it allows the essential features to be the focus. Choosing points is the best choice for this data. Extending the y limits in both directions would allow for the extent of the data to be made clear as many points lie on the edge of the y limits, making it unclear if any balls are hit with launch angles above 60 degrees or below -40 degrees. The figure does not seem to deform the data.
+
+
+# FBB
+
+the review is thorough. I has asked to split it between aesthetic, clarity, and honesty and you di dnot but you are making comments that reference each of those axis. However, you were also asked to include the plot in your review. 
+
+85%
